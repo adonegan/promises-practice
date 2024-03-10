@@ -1,0 +1,1 @@
+A quick little practice on promises in Javascript using the Pokeapi.
